@@ -89,3 +89,20 @@ Syed Abdul Nafay
 ## Internship
 CodeAlpha - DevOps Internship
 
+
+## Project Screenshots
+
+### 1. Docker Image Build
+![Docker Build](screenshots/Docker-Build.png)
+
+### 2. Running Website
+![Website Running](screenshots/Website-Running.png)
+
+### 3. Container Status
+![Container Status](screenshots/Container-Status.png)
+
+### 4. Docker Monitoring
+![Docker Monitoring](screenshots/Docker-Monitoring.png)
+
+### 5. Docker Logs
+![Docker Logs](screenshots/Docker-Logs.png)
